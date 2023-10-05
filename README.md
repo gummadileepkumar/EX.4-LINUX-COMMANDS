@@ -13,8 +13,8 @@ Linux operating system
 
 # COMMAND1:ls - List Directory Contents
 
-Developed by : Shaik Sameer Basha
-Register no: 212222240093
+Developed by : Gumma Dileep Kumar
+Register no: 212222240032
 
 
 
